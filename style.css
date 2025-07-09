@@ -18,10 +18,7 @@
 
 /* FONTS */
 
-@font-face {
-    font-family: sans;
-/*     src: url(Nexa-Heavy.ttf); */
-  }
+
 
 
 @font-face {
@@ -37,7 +34,7 @@
 }
 
 h1 {
-    font-family: "nexa";
+    font-family: sans-serif;
     font-size: 4em;
     line-height: 1.2;
     /* color: var(--offwhite); */
@@ -52,7 +49,7 @@ h2 {
 }
 
 h3 {
-    font-family: "nexa";
+    font-family: sans-serif;
     font-size: 2em;
     /* color: var(--offwhite); */
 }
@@ -64,15 +61,16 @@ h4 {
 }
 
 h5 {
-    font-family: "nexa";
+    font-family: sans-serif;
     font-size: 1.1em;
     /* color: var(--offwhite); */
 }
 
 p {
-    font-family: "nexa";
+    font-family: sans-serif;
     /* color: var(--offwhite); */
 }
+
 
 /* PSEUDO ELEMENTS */
 
